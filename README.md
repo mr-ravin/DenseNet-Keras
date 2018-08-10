@@ -24,3 +24,6 @@ All our experiment results are present in result directory.
 - result/dropout- contains result of model when dropout is applied.
 
 - result/no_dropout- contains result of model when NO dropout is applied.
+
+
+### Note: This work can be used only for academic research work after providing proper citation and deserved credits to this work. For Industrial, commercial or any other use, permission is required from the Author.
