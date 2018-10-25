@@ -8,8 +8,9 @@ import keras.backend as K
 
 from custom_layers import Scale
 
-def DenseNet(nb_dense_block=4, growth_rate=32, nb_filter=64, reduction=0.0, dropout_rate=0.0, weight_decay=1e-4, classes=100, weights_path=None):
+def DenseNet(nb_dense_block=4, growth_rate=24, nb_filter=64, reduction=0.0, dropout_rate=0.2, weight_decay=1e-4, classes=100, weights_path=None):
     '''Instantiate the DenseNet 121 architecture,
+    #(nb_dense_block=4, growth_rate=32, nb_filter=64, reduction=0.0, dropout_rate=0.0, weight_decay=1e-4, classes=100, weights_path=None):
         # Arguments
             nb_dense_block: number of dense blocks to add to end
             growth_rate: number of filters to add per dense block
