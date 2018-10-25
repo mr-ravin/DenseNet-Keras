@@ -38,7 +38,7 @@ def DenseNet(nb_dense_block=4, growth_rate=32, nb_filter=64, reduction=0.0, drop
 
     # From architecture for ImageNet (Table 1 in the paper)
     nb_filter = 64
-    nb_layers = [12,12,12,12] 
+    nb_layers = [6,12,24,16] 
 
     # Initial convolution
     x = ZeroPadding2D((3, 3), name='conv1_zeropadding')(img_input)
