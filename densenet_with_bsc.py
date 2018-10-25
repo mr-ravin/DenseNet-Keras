@@ -38,7 +38,7 @@ def DenseNet(nb_dense_block=4, growth_rate=32, nb_filter=64, reduction=0.0, drop
 
     # From architecture for ImageNet (Table 1 in the paper)
     nb_filter = 64
-    nb_layers = [12,12,12,12] # For DenseNet-121
+    nb_layers = [6,12,24,16] # For DenseNet-121
 
     # Initial convolution
     x = ZeroPadding2D((3, 3), name='conv1_zeropadding')(img_input)
@@ -152,7 +152,7 @@ def gen_list(gen_num_dense=12):
 
 def binary_search_connections(start,end,list_keys):  ### 384- 20/12     512- 22/14   640- 23.9/15 
   if end-start>0:
-    mid=(start+end)/2
+    mid=int((start+end)/2)
     if start!=end:
       if mid-start>2:
         list_keys[mid].append(start+1)
