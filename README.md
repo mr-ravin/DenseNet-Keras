@@ -26,4 +26,4 @@ All our experiment results are present in result directory.
 - result/no_dropout- contains result of model when NO dropout is applied.
 
 
-### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
+#### Note: This work can be used freely for academic research work and individual non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Author.
