@@ -2,7 +2,7 @@
 This repository includes the source code for BSC-Densenet and the base code of DenseNet with which it is compared in the paper.
 Comparision in done on CIFAR100 dataset.
 
-Author: Ravin Kumar
+Author: [Ravin Kumar](https://mr-ravin.github.io/)
 
 Deep Learning Framework: Keras
 
