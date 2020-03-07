@@ -1,5 +1,5 @@
 ## Binary Search Connection DenseNet (BSC-DenseNet)
-This repository includes the source code for BSC-Densenet of research paper "Adding Binary Search Connections to Improve DenseNet Performance", published in Elsevier-SSRN conference proceedings of NGCT 2019. and the base code of openly available DenseNet is also available in this repository for comparing our BSC-DenseNet on the CIFAR100 dataset.
+This repository includes the source code for BSC-Densenet of research paper "Adding Binary Search Connections to Improve DenseNet Performance", published in Elsevier-SSRN conference proceedings of NGCT 2019. The base code of openly available DenseNet is also present in this repository for comparing our BSC-DenseNet on the CIFAR100 dataset.
 
 ##### Author: [Ravin Kumar](https://mr-ravin.github.io/)
 
