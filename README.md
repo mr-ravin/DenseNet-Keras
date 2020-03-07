@@ -1,7 +1,16 @@
 ## Binary Search Connection DenseNet (BSC-DenseNet)
-This repository includes the source code for BSC-Densenet, presented in the research paper "Adding Binary Search Connections to Improve DenseNet Performance", and the base code of DenseNet with which it is compared using the CIFAR100 dataset.
+This repository includes the source code for BSC-Densenet of research paper "Adding Binary Search Connections to Improve DenseNet Performance", published in Elsevier-SSRN conference proceedings of NGCT 2019. and the base code of openly available DenseNet is also available in this repository for comparing our BSC-DenseNet on the CIFAR100 dataset.
 
 ##### Author: [Ravin Kumar](https://mr-ravin.github.io/)
+
+##### Paper link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545071
+
+##### Cite as:
+
+```
+Kumar, Ravin, Adding Binary Search Connections to Improve DenseNet Performance (February 27, 2020).
+Available at SSRN: https://ssrn.com/abstract=3545071 or http://dx.doi.org/10.2139/ssrn.3545071 
+```
 
 Deep Learning Framework: Keras
 
