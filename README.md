@@ -3,7 +3,11 @@ This repository includes the source code for BSC-Densenet of research paper "Add
 
 ##### Author: [Ravin Kumar](https://mr-ravin.github.io/)
 
-##### Paper link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545071
+##### Publication: 27th February 2020
+
+##### Publication Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3545071
+
+##### Doi: http://dx.doi.org/10.2139/ssrn.3545071
 
 ##### Cite as:
 
