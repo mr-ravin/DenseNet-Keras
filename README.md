@@ -12,8 +12,9 @@ This repository includes the source code for BSC-Densenet of research paper "Add
 ##### Cite as:
 
 ```
-Kumar, Ravin, Adding Binary Search Connections to Improve DenseNet Performance (February 27, 2020).
-Available at SSRN: https://ssrn.com/abstract=3545071 or http://dx.doi.org/10.2139/ssrn.3545071 
+Kumar, Ravin, Adding Binary Search Connections to Improve DenseNet Performance (February 27, 2020). 5th International 
+Conference on Next Generation Computing Technologies (NGCT-2019). Available at SSRN: https://ssrn.com/abstract=3545071
+or http://dx.doi.org/10.2139/ssrn.3545071 
 ```
 
 Deep Learning Framework: Keras
